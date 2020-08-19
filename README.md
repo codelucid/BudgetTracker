@@ -1,10 +1,12 @@
 # BudgetTracker
 
-![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
+![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) ![GitHub license](https://img.shields.io/badge/Skill-JavaScript-red) ![GitHub license](https://img.shields.io/badge/Deployment-Heroku-Purple)
 
 ## Description  
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information, anytime, is even more important.  Introducing the Budget Tracker!  If you are on a budget, while, periodically, without an internet connection, give this application a try!
+
+[Budget Tracker](https://budget-tracker-for-all.herokuapp.com/)
 
 ## Table of Contents
 - Installation 
@@ -26,8 +28,7 @@ Contact Codelucid for details, but always pull first and commit often!
 
 ## License  
 
-The license for this project:
-None  
+![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
 
 ## Contributing  
 
